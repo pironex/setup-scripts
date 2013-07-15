@@ -21,4 +21,4 @@ meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,master,3b3ee922a46
 meta-minnow,git://git.yoctoproject.org/meta-minnow,dylan,HEAD
 meta-ros,git://github.com/bmwcarit/meta-ros.git,master,f69c619237e325e40b710b0c61e17b4e46eaf872
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.4,HEAD
-meta-pia-am335x,git@github.com:pironex/meta-pia-am335x.git,meta-pia-2012.12,HEAD
+meta-pia-am335x,git@github.com:pironex/meta-pia-am335x.git,meta-pia-2013.06,HEAD
