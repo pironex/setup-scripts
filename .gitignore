@@ -1,5 +1,7 @@
 bitbake.lock
 build
+cache/
+environment-*
 sources/*
 deploy/
 !sources/layers.txt
@@ -14,3 +16,4 @@ package-depends.dot
 pn-depends.dot
 task-depends.dot
 tags
+upload/
