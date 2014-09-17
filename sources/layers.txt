@@ -31,4 +31,4 @@ meta-telephony,http://git.gitorious.org/sysmocom-openembedded/meta-telephony.git
 meta-qt5,git://github.com/meta-qt5/meta-qt5,dora,HEAD
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.5,HEAD
 meta-pia-am335x,git@github.com:pironex/meta-pia-am335x.git,meta-pia-2013.12,HEAD
-meta-arago,git://arago-project.org/git/meta-arago.git,master,HEAD
+meta-arago,git://arago-project.org/git/meta-arago.git,dora,HEAD
